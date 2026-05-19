@@ -1,6 +1,7 @@
 # my-certificates
 ## Certifications
 
+HI I'm Izza Faris 
 Successfully completed certification programs at the University of Moratuwa in:
 
 - Front-End Development
